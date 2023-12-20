@@ -19,3 +19,12 @@ dog.py
 ```
 
 
+flow chart:
+
+```mermaid
+flowchart TD;
+    A[input iamge]--608x608x3-->B[YoloV3];
+    B--608x608x3-->C[Detection ROI];
+    C--1x224x224x3-->D[MobileNetV3];
+    D--1x1001-->E[output image];
+```
