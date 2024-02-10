@@ -1,5 +1,5 @@
-# Mini Project_FINDOG
-
+# FINDOG
+OpenVino를 활용한 견종 분류 시스템!
 ## Member introduction
 박용근
 우창민
