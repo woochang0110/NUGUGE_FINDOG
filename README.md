@@ -35,11 +35,16 @@ coco.names
 입력용 강아지 사진
 dog.py
 ```
+
+## Demo Vedio
+
+아래 사진을 누르면 데모 영상 링크로 이동합니다.
+[![Youtube](./documents/youtube_thumbnail.png)](https://youtu.be/FSuM2O3ig2Q)<br>
+
+
 ## Result
 
-![dogcat_png](https://github.com/woochang0110/OpenVINO_AI/assets/66717615/1a5fb3b8-3b4c-49de-adf3-0e6afb7a3426)
-
-
+![dogcat_png](./documents/dogcat_png.png)
 
 
 
